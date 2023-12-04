@@ -177,7 +177,7 @@ Canvas:
   m_RenderMode: 0
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
-  m_PixelPerfect: 0
+  m_PixelPerfect: 1
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
@@ -951,10 +951,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2112646759}
     m_Modifications:
-    - target: {fileID: 466101377751848054, guid: 2b22c30c4f73c2149aee2ccfc1b8c654, type: 3}
-      propertyPath: m_AdditionalShaderChannelsFlag
-      value: 25
-      objectReference: {fileID: 0}
     - target: {fileID: 3343578688852419279, guid: 2b22c30c4f73c2149aee2ccfc1b8c654, type: 3}
       propertyPath: m_Name
       value: Tab_1
